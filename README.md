@@ -1,3 +1,3 @@
 # trabalho_academico_SQL
 *********************
-Trabalhos acadêmicos de banco de dados;
+Trabalhos acadêmicos de banco de dados  - sql server;
